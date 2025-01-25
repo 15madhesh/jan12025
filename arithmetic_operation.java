@@ -1,5 +1,5 @@
 import java.util.*;
-class main{
+class arithmetic_operation{
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         System.out.println("Enter a string value:");
